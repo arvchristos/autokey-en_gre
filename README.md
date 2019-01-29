@@ -1,4 +1,4 @@
-# autokey-en_gre
+# Autokey en-gre utility
 A tool for those times writing the right things in wrong language.
 
 Ever typed a whole sentence in English instead of your language? Then this tool is for you!
