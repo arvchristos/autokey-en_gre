@@ -10,7 +10,7 @@ Currently supporting:
 
 ## Installation
 ### Requirements
-This script is developed for the awesome [autokey]() utility. Therefore, autokey should be installed.
+This script is developed for the awesome [autokey](https://github.com/autokey/autokey) utility. Therefore, autokey should be installed.
 
 #### Install via pip
 ```
@@ -31,7 +31,7 @@ sudo apt install autokey-qt
 For more autokey installation methods navigate to [autokey's repo](https://github.com/autokey/autokey#installation)
 
 ### Install en_gre
-After installing autokey, open the Autokey utility. Then create a new script using `New->Script` and give it a descriptive name. Afterwards paste the code from the `engre.py` to the script code and define a hotkey for this script to be triggered (e.g. <CTRL> + <ALT> + G).
+After installing autokey, open the Autokey utility. Then create a new script using `New->Script` and give it a descriptive name. Afterwards paste the code from the [engre.py](https://github.com/arvchristos/autokey-en_gre/blob/master/engre.py) to the script code and define a hotkey for this script to be triggered (e.g. <CTRL> + <ALT> + G).
   
  ## Usage
  1. Write text in wrong layout (easy?).
